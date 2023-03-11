@@ -33,6 +33,3 @@ This project is an attempt to provide the advantages of online shopping to the c
 
 The main objective of the Online Shopping System is to manage the details of shopping, internet, payment, and bills. It manages all the information about products, and customers.
 
-“HSM Boutique” is a fashion e-commerce website to facilitate Customers to purchase ready-to-wear dresses. E-commerce is now an essential tool for the fashion industry. This site will help HSM’s fashion house to take their products worldwide with a minimum investment of money. It will be used to promote and sell their eastern formal, party, and wedding wears online. Multibillion-dollar global enterprise devoted to the business of making and selling clothes.
-
-
