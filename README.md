@@ -31,5 +31,5 @@ Project Description:
 
 This project is an attempt to provide the advantages of online shopping to the customers. It helps to buy the products in the shop anywhere through the internet by using an android device. The customer will get the service of online shopping and home delivery from the favorite shops. This system can be implemented in any shop in the locality or in multinational branded shops having retail outlet chains.
 
-The main objective of the Online Shopping System is to manage the details of shopping, internet, payment, and bills. It manages all the information about products, and customers.
+The main objective of this ecommerce website is to manage the details of shopping, internet, payment, and bills. It manages all the information about products, and customers.
 
